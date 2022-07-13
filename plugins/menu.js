@@ -224,11 +224,11 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
    {
 	title: `${htki} MAIN ${htka}`,
 	rows: [
-	    {title: `📛 ${pmenus} INFO BOT`, rowId: ".info", description: "Menampilkan kecepatan respon Fangz BOT"},
-	    {title: `💌 ${pmenus} OWNER BOT`, rowId: ".owner", description: "Menampilkan List owner Fangz BOT"},
+	    {title: `📛 ${pmenus} INFO BOT`, rowId: ".info", description: "Menampilkan kecepatan respon ɪᴍᴠ ʙᴏᴛᴢ"},
+	    {title: `💌 ${pmenus} OWNER BOT`, rowId: ".owner", description: "Menampilkan List owner ɪᴍᴠ ʙᴏᴛᴢ"},
 	    {title: `📔 ${pmenus} SCRIPT BOT`, rowId: ".sc", description: `Source Code ${namebot}`},
 	{title: `📮 ${pmenus} RULES BOT`, rowId: ".rules", description: `Peraturan menggunakan ${namebot}`},
-	{title: `🗣️ ${pmenus} REQUEST FITUR`, rowId: ".request", description: "Request fitur Fangz BOT"},
+	{title: `🗣️ ${pmenus} REQUEST FITUR`, rowId: ".request", description: "Request fitur ɪᴍᴠ ʙᴏᴛᴢ"},
 	]
     },{
 	title: `${htki} SUPPORT ${htka}`,
@@ -240,7 +240,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 	{title: `🌐 ${pmenus} WEBSITE`, rowId: ".website", description: 'Jangan lupa mampir'},
 	]
 	},{
-	title: `${htki} MENU FANGZ BOT${htka}`,
+	title: `${htki} ʟɪsᴛ ᴍᴇɴᴜ ɪᴍᴠ${htka}`,
 	rows: [
 	    {title: `『💬』 ${pmenus} All`, rowId: ".? all", description: "Menampilkan Semua command BOT"},
 	    {title: `『🌱』 ${pmenus} Rpg`, rowId: ".? rpg", description: "Game Epic Rpg!"},
@@ -303,10 +303,10 @@ ${clockStringP(usrs.premiumTime - new Date())}` : ''}
 `
 const listMessage = {
   text: tek,
-  footer: 'By https://fangzbot.websites.co.in/\n\n⌕ ✵ ɪᴍᴠ ʙᴏᴛᴢ ✵ ⌕',
+  footer: 'https://yannmd-ofc.blogspot.com/?m=1/\n\n⌕ ✵ ɪᴍᴠ ʙᴏᴛᴢ ✵ ⌕',
   mentions: await conn.parseMention(tek),
   title: `${htki} *LIST MENU* ${htka}`,
-  buttonText: `FANGZ BOT MENU`,
+  buttonText: `ɪᴍᴠ ʙᴏᴛᴢ ᴍᴇɴᴜ`,
   sections
 }
   if (teks == '404') {
@@ -511,12 +511,12 @@ const listMessage = {
             fileLength: fsizedoc,
             pageCount: fpagedoc,
             caption: text,
-            footer: titlebot + '\n⚡ Supported By Fangz TEAM',
+            footer: titlebot + '\n⚡ sᴜᴘᴘᴏʀᴛᴇᴅ ʙʏ ɪᴍᴠ ᴛᴇᴀᴍ',
             templateButtons: [
                 {
                     urlButton: {
                         displayText: `${namebot}`,
-                        url: 'https://s.id/Fangzganz'
+                        url: 'https://yannmd-ofc.blogspot.com/?m=1'
                     }
                 },
                 {
