@@ -123,7 +123,7 @@ global.wm3 = '⫹⫺ ɪᴍᴠ ʙᴏᴛᴢ'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = '𝗥𝗣𝗚 | Whatsapp ʙᴏᴛ ʙʏ ɪᴍᴠ ᴛᴇᴀᴍ'
-global.author = '       ┄┄┄┅┅❑ ɪᴍᴠ ʙᴏᴛ ❑┅┅┄┄┄'
+global.author = '❑ ɪᴍᴠ ʙᴏᴛ ʙʏ ɪᴍᴠ ᴛᴇᴀᴍ❑'
 
 
 /*============== LOGO ==============*/
@@ -160,7 +160,7 @@ global.dmenub2 = '┊' //body for info cmd on Default menu
 global.dmenuf = '┗––––––––––✦' //footer
 
 // COMMAND MENU
-global.dashmenu = '┅━━━━━═┅═❏ *DASHBOARD* ❏═┅═━━━━━┅'
+global.dashmenu = '┅━━━━━═❏ *DASHBOARD* ❏═━━━━━┅'
 global.cmenut = '❏––––––『'                       //top
 global.cmenuh = '』––––––'                        //header
 global.cmenub = '┊➪ '                            //body
