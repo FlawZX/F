@@ -5,7 +5,7 @@ let handler = async (m, { conn }) => {
 ${txt}
 `.trim())
 }
-handler.help = ['groups', 'grouplist']
+handler.help = ['listgc', 'grouplist']
 handler.tags = ['info']
 handler.command = /^(group(s|list))$/i
 

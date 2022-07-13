@@ -4,19 +4,9 @@ let text = `${htki} SMARTFREN ${htka}
 Hay👋, ingin melanjutkan pembayaran?
 
 💰 *Pembayaran*
-• Via: Pulsa Smartfren 
-• Nomor: 088215689772
-• A/n: Fangz
-• Mitra: Fangz BOT
-• Metode pembayaran: Online ( ~Cod~ )
-
-💰 *Bayar melalui aplikasi TokoBot*
-
-TokoBot: https://app.bukaolshop.com/toko/tokobot
-
-FangzApp:https://web.jagel.id/store/fangzapp
-
-Website:https://toko.ly/TokoBot   (Non apk)
+• Via: Pulsa Telkomsel
+• Nomor: 082252285143
+• Metode pembayaran: Online
 
 📦 _Informasi Pembayaran_
 

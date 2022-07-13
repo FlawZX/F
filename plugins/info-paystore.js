@@ -44,14 +44,9 @@ let info = `
 ┏⫹⫺ *ᴘʀᴏ* 
 ┗$ ${pv}k (5 bulan)                                            
 
-*📦 Kalau mau dapat discon langsung aja download aplikasi TokoBot* ☜
-
-✧ _Link apk ada di website ya_
-Klik link berikut: https://fangzbot.websites.co.in/ 
-
 –––––– *ᴋᴇʙɪᴊᴀᴋᴀɴ* ––––––
 🗣️: Kak, Kok harganya mahal banget?
-💬: Mau tawar menawar? boleh, silahkan chat owner aja.. max tawar 5k
+💬: Mau tawar menawar? boleh, silahkan chat owner aja.. max tawar 10k
 
 🗣️: Scam ga nih kak?
 💬: Enggalah, Owner 100% Tepati janji #STAYHALAL

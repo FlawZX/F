@@ -8,7 +8,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
             mentionedJid: [m.sender]
         }
     })
-    m.reply('_📮 Terima kasih Telah memberi nilai ke Fangz BOT :)._')
+    m.reply('_📮 Terima kasih Telah memberi nilai ke imv bot :)._')
 }
 handler.command = /^(nilainih)$/i
 handler.limit = true

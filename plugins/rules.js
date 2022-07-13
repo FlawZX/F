@@ -4,7 +4,7 @@ let text = `${htki} *RULES* ${htka}
 Click Link website berikut, Baca peraturan agar terhindar dari Suspand/banned permanen 
 `
 const templateButtons = [
-    {index: 1, urlButton: {displayText: 'Link', url: 'https://s.id/Fangzbotwebs'}},
+    {index: 1, urlButton: {displayText: 'Link', url: 'https://yannmd-ofc.blogspot.com/2022/07/bot-rules-1.html'}},
 ]
 let tm = {
 text: text,

@@ -2,7 +2,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 let text = `*${htki} SOURCE CODE ${htka}*
 `
 const templateButtons = [
-    {index: 1, urlButton: {displayText: 'Link', url: 'https://youtube.com/channel/UCACHvReRmw2fxgMutPFCBWg'}},
+    {index: 1, urlButton: {displayText: 'Link', url: 'https://github.com/RynZzz-404/F'}},
 ]
 let tm = {
 text: text,

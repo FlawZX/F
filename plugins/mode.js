@@ -5,7 +5,7 @@ let text = `*${htki} MODE ${htka}*
               📮ᴍᴀᴜ ᴍᴏᴅᴇ ᴀᴘᴀ?
 `
 const templateButtons = [
-    {index: 3, urlButton: {displayText: '💬 ᴏᴡɴᴇʀ', url: 'https://wa.me/6288215689772'}},
+    {index: 3, urlButton: {displayText: '💬 ᴏᴡɴᴇʀ', url: 'https://wa.me/6282252285143'}},
     {index: 4, quickReplyButton: {displayText: 'ᴘᴜʙʟɪᴄ', id: '.public'}},
     {index: 5, quickReplyButton: {displayText: 'ꜱᴇʟꜰ', id: '.self'}},
 ]

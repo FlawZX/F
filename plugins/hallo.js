@@ -4,7 +4,7 @@ let text = `${htki} *ADA APA* ${htka}
         💬 Ada bantuan Bot?
 `
 const templateButtons = [
-    {index: 1, urlButton: {displayText: 'Chat', url: 'https://wa.me/62895394988123'}},
+    {index: 1, urlButton: {displayText: 'Chat', url: 'https://wa.me/6282252285143'}},
 ]
 let tm = {
 text: text,

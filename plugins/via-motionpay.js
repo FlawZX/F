@@ -4,20 +4,11 @@ let text = `${htki} MOTION PAY ${htka}
 Hay👋, ingin melanjutkan pembayaran?
 
 💰 *Pembayaran*
-• Via: Motion Pay
-• Nomor: 088215689772
-• A/n: Fangz
-• Mitra: Fangz BOT
-• Metode pembayaran: Online ( ~Cod~ )
-
-💰 *Bayar melalui aplikasi TokoBot*
-
-TokoBot: https://app.bukaolshop.com/toko/tokobot
-
-FangzApp:https://web.jagel.id/store/fangzapp
-
-Website:https://toko.ly/TokoBot   (Non apk)
-
+• Via:xxx
+• Nomor: XXXX
+• A/n: dxxx
+• Mitra: XXX
+• Metode pembayaran: Online
 📦 _Informasi Pembayaran_
 
 Pembayaran Sewa hanya dapat menggunakan saldo.
@@ -27,7 +18,7 @@ Pastikan saldo kamu mencukupi untuk bertransaksi!
 📮KLIK *SUDAH BAYAR* JIKA SUDAH MEMBAYAR!
 `
 const templateButtons = [
-    {index: 1, urlButton: {displayText: 'QRIS', url: 'https://telegra.ph/file/ff71853efeb006d635a90.jpg'}},
+    {index: 1, urlButton: {displayText: 'GADA', url: 'https://telegra.ph/file/3685c2daefba197c1bc24.jpg'}},
     {index: 4, quickReplyButton: {displayText: 'Sudah membayar', id: '.sudahbayar'}},
 ]
 let tm = {
