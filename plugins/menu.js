@@ -303,7 +303,7 @@ ${clockStringP(usrs.premiumTime - new Date())}` : ''}
 `
 const listMessage = {
   text: tek,
-  footer: 'By https://fangzbot.websites.co.in/\n\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕',
+  footer: 'By https://fangzbot.websites.co.in/\n\n⌕ ✵ ɪᴍᴠ ʙᴏᴛᴢ ✵ ⌕',
   mentions: await conn.parseMention(tek),
   title: `${htki} *LIST MENU* ${htka}`,
   buttonText: `FANGZ BOT MENU`,
