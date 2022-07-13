@@ -299,7 +299,7 @@ let tek = `*✧${ucapan()} ${conn.getName(m.sender)}*
 ${clockStringP(usrs.premiumTime - new Date())}` : ''}
 
 
-               「 *Fangz BOT あ⁩* 」
+               「 *IMV BOT ⁩* 」
 `
 const listMessage = {
   text: tek,
